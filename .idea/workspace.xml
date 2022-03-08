@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="908a6be6-e524-4a8d-90dc-7ee106188d29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codingtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codingtest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon_ATM.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon_ATM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.baekjoon_설탕배달">
+  <component name="RunManager" selected="Python.baekjoon_보물">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,6 +76,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="baekjoon_동전" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_동전.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baekjoon_보물" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_보물.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="baekjoon_ATM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="codeup_최소대금" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="codeup_거스름돈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codeup_최소대금.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codeup_거스름돈.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,13 +227,17 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.baekjoon_ATM" />
       <item itemvalue="Python.baekjoon_설탕배달" />
-      <item itemvalue="Python.codeup_최소대금" />
+      <item itemvalue="Python.baekjoon_동전" />
+      <item itemvalue="Python.codeup_거스름돈" />
+      <item itemvalue="Python.baekjoon_보물" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.baekjoon_설탕배달" />
-        <item itemvalue="Python.codeup_최소대금" />
+        <item itemvalue="Python.baekjoon_보물" />
+        <item itemvalue="Python.baekjoon_동전" />
+        <item itemvalue="Python.codeup_거스름돈" />
         <item itemvalue="Python.baekjoon_ATM" />
+        <item itemvalue="Python.baekjoon_설탕배달" />
       </list>
     </recent_temporary>
   </component>
@@ -218,30 +263,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1646368375777" />
-    <state width="1364" height="24" key="GridCell.Tab.0.bottom" timestamp="1646656456617">
+    <state width="1220" height="223" key="GridCell.Tab.0.bottom" timestamp="1646722663663">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="24" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1646656456617" />
-    <state width="1364" height="24" key="GridCell.Tab.0.center" timestamp="1646656456616">
+    <state width="1220" height="223" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1646722663663" />
+    <state width="1220" height="223" key="GridCell.Tab.0.center" timestamp="1646722663662">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="24" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1646656456616" />
-    <state width="1364" height="24" key="GridCell.Tab.0.left" timestamp="1646656456615">
+    <state width="1220" height="223" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1646722663662" />
+    <state width="1220" height="223" key="GridCell.Tab.0.left" timestamp="1646722663662">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="24" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1646656456615" />
-    <state width="1364" height="24" key="GridCell.Tab.0.right" timestamp="1646656456616">
+    <state width="1220" height="223" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1646722663662" />
+    <state width="1220" height="223" key="GridCell.Tab.0.right" timestamp="1646722663663">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="24" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1646656456616" />
+    <state width="1220" height="223" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1646722663663" />
     <state x="279" y="53" key="SettingsEditor" timestamp="1646656420053">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="279" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1646656420053" />
-    <state x="471" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1646658415244">
+    <state x="471" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1646714099227">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="471" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1646658415244" />
+    <state x="471" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1646714099227" />
     <state x="853" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1646470607260">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
