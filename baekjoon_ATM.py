@@ -11,7 +11,7 @@ people.sort()                                   # 오름차순 정렬
 
 for user in people:                             # people을 for문 돌면서
   time += user                                  # time에는 각 사용자들의 값을 더하면서 저장
-  each_time.append(time)                        # 만들어둔 리스트에 time을 더하면서 저장장
+  each_time.append(time)                        # 만들어둔 리스트에 time을 더하면서 저장
 
 result = sum(each_time)
 print(result)
