@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/codingtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codingtest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon_ATM.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon_ATM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +32,37 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.Unnamed">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wisej\codingtest\Greedy" />
+      <recent name="C:\Users\wisej\codingtest\Sort" />
+      <recent name="C:\Users\wisej\codingtest\DFS &amp; BFS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.baekjoon_스택">
+    <configuration name="ArrayList 예제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayList/ArrayList 예제" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,7 +84,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baekjoon_설탕배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="baekjoon_나는 요리사다" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayList/baekjoon_나는 요리사다.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baekjoon_폴리오미노" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +117,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_설탕배달.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wisej\codingtest\Greedy\baekjoon_폴리오미노.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baekjoon_스택" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\wisej\codingtest\Stack\baekjoon_스택.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,28 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_ATM.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="baekjoon_ProjectTeams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_ProjectTeams.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wisej\codingtest\Greedy\baekjoon_ATM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="codeup_거스름돈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for문2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력에 관한 기본" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codeup_거스름돈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력에 관한 기본/for문2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="codeup_거스름돈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for문3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,53 +323,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력에 관한 기본" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codeup_거스름돈.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="codeup_최고의피자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codeup_최고의피자.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="codeup_원숭이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codeup_원숭이.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력에 관한 기본/for문3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,15 +339,20 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.baekjoon_ATM" />
-      <item itemvalue="Python.baekjoon_설탕배달" />
-      <item itemvalue="Python.codeup_거스름돈" />
-      <item itemvalue="Python.baekjoon_ProjectTeams" />
+      <item itemvalue="Python.baekjoon_폴리오미노" />
+      <item itemvalue="Python.for문2" />
+      <item itemvalue="Python.for문3" />
+      <item itemvalue="Python.ArrayList 예제" />
+      <item itemvalue="Python.baekjoon_나는 요리사다" />
+      <item itemvalue="Python.baekjoon_스택" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.baekjoon_ProjectTeams" />
-        <item itemvalue="Python.codeup_거스름돈" />
-        <item itemvalue="Python.baekjoon_설탕배달" />
+        <item itemvalue="Python.baekjoon_스택" />
+        <item itemvalue="Python.baekjoon_나는 요리사다" />
+        <item itemvalue="Python.ArrayList 예제" />
+        <item itemvalue="Python.for문3" />
+        <item itemvalue="Python.for문2" />
       </list>
     </recent_temporary>
   </component>
@@ -359,45 +370,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="498" y="44" key="#baekjoon_ATM" timestamp="1646655553238">
+    <state x="459" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1675232237354">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="498" y="44" key="#baekjoon_ATM/0.0.1536.816@0.0.1536.816" timestamp="1646655553238" />
-    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646746707691">
+    <state x="459" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1675232237354" />
+    <state x="271" y="175" key="FileChooserDialogImpl" timestamp="1675229293518">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1646746707691" />
-    <state x="550" y="186" key="FileChooserDialogImpl" timestamp="1646747016574">
+    <state x="271" y="175" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1675229293518" />
+    <state width="1515" height="264" key="GridCell.Tab.0.bottom" timestamp="1675242800957">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="550" y="186" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1646747016574" />
-    <state width="1000" height="147" key="GridCell.Tab.0.bottom" timestamp="1646967329965">
+    <state width="1515" height="264" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675242800957" />
+    <state width="1515" height="264" key="GridCell.Tab.0.center" timestamp="1675242800956">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1000" height="147" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1646967329965" />
-    <state width="1000" height="147" key="GridCell.Tab.0.center" timestamp="1646967329964">
+    <state width="1515" height="264" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675242800956" />
+    <state width="1515" height="264" key="GridCell.Tab.0.left" timestamp="1675242800955">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1000" height="147" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1646967329964" />
-    <state width="1000" height="147" key="GridCell.Tab.0.left" timestamp="1646967329963">
+    <state width="1515" height="264" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675242800955" />
+    <state width="1515" height="264" key="GridCell.Tab.0.right" timestamp="1675242800956">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1000" height="147" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1646967329963" />
-    <state width="1000" height="147" key="GridCell.Tab.0.right" timestamp="1646967329965">
+    <state width="1515" height="264" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675242800956" />
+    <state x="114" y="101" key="SettingsEditor" timestamp="1675229323015">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1000" height="147" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1646967329965" />
-    <state x="279" y="53" key="SettingsEditor" timestamp="1646747027833">
+    <state x="114" y="101" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1675229323015" />
+    <state x="471" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1675253967327">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="279" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1646747027833" />
-    <state x="471" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1646877572854">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state x="471" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1646877572854" />
-    <state x="853" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1646470607260">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state x="853" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1646470607260" />
+    <state x="471" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1675253967327" />
   </component>
 </project>
