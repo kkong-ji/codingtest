@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="908a6be6-e524-4a8d-90dc-7ee106188d29" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS &amp; BFS/미로탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS &amp; BFS/baekjoon_미로탐색.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <recent name="C:\Users\wisej\codingtest\DFS &amp; BFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.baekjoon_과제 안내신 분">
+  <component name="RunManager" selected="Python.baekjoon_미로탐색">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baekjoon_팩토리얼" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="baekjoon_미로탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS &amp; BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/baekjoon_팩토리얼.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS &amp; BFS/baekjoon_미로탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -484,19 +485,19 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.baekjoon_ATM" />
-      <item itemvalue="Python.baekjoon_팩토리얼" />
       <item itemvalue="Python.baekjoon_하노이 탑 이동순서" />
       <item itemvalue="Python.baekjoon_영화감독 숌" />
       <item itemvalue="Python.d" />
       <item itemvalue="Python.baekjoon_과제 안내신 분" />
+      <item itemvalue="Python.baekjoon_미로탐색" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.baekjoon_미로탐색" />
         <item itemvalue="Python.baekjoon_과제 안내신 분" />
         <item itemvalue="Python.d" />
         <item itemvalue="Python.baekjoon_영화감독 숌" />
         <item itemvalue="Python.baekjoon_하노이 탑 이동순서" />
-        <item itemvalue="Python.baekjoon_팩토리얼" />
       </list>
     </recent_temporary>
   </component>
@@ -522,22 +523,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="271" y="175" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1675229293518" />
-    <state width="915" height="288" key="GridCell.Tab.0.bottom" timestamp="1675820594257">
+    <state width="1105" height="288" key="GridCell.Tab.0.bottom" timestamp="1675824355605">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="915" height="288" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675820594257" />
-    <state width="915" height="288" key="GridCell.Tab.0.center" timestamp="1675820594257">
+    <state width="1105" height="288" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675824355605" />
+    <state width="1105" height="288" key="GridCell.Tab.0.center" timestamp="1675824355605">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="915" height="288" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675820594257" />
-    <state width="915" height="288" key="GridCell.Tab.0.left" timestamp="1675820594257">
+    <state width="1105" height="288" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675824355605" />
+    <state width="1105" height="288" key="GridCell.Tab.0.left" timestamp="1675824355605">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="915" height="288" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675820594257" />
-    <state width="915" height="288" key="GridCell.Tab.0.right" timestamp="1675820594257">
+    <state width="1105" height="288" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675824355605" />
+    <state width="1105" height="288" key="GridCell.Tab.0.right" timestamp="1675824355605">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="915" height="288" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675820594257" />
+    <state width="1105" height="288" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675824355605" />
     <state x="114" y="101" key="SettingsEditor" timestamp="1675229323015">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
