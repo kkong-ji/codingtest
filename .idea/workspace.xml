@@ -39,8 +39,8 @@
       <recent name="C:\Users\wisej\codingtest\DFS &amp; BFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.baekjoon_I've been Everywhere, Man">
-    <configuration name="ㅇㅇ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.baekjoon_날짜 계산">
+    <configuration name="통장 비밀번호 풀기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +48,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Map" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Brute Force" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Map/ㅇㅇ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Brute Force/통장 비밀번호 풀기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,69 +74,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="baekjoon_비밀번호 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Map" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Map/baekjoon_비밀번호 찾기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="baekjoon_숫자의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayList" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayList/baekjoon_숫자의 개수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="baekjoon_잃어버린 괄호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy/baekjoon_잃어버린 괄호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baekjoon_하노이 탑 이동순서" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="baekjoon_날짜 계산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Brute Force" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/baekjoon_하노이 탑 이동순서.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Brute Force/baekjoon_날짜 계산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baekjoon_미로탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="baekjoon_날짜 계산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS &amp; BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Brute Force" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS &amp; BFS/baekjoon_미로탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Brute Force/baekjoon_날짜 계산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baekjoon_쇠막대기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="baekjoon_보물" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +237,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/baekjoon_쇠막대기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_보물.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baekjoon_최댓값" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingtest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayList" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayList/baekjoon_최댓값.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -460,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baekjoon_보물" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -468,11 +426,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력에 관한 기본" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_보물.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력에 관한 기본/dd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -481,7 +439,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baekjoon_윷놀이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingtest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -489,32 +447,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력에 관한 기본" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayList/baekjoon_윷놀이.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="baekjoon_최댓값" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codingtest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayList" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayList/baekjoon_최댓값.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력에 관한 기본/ss.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -525,19 +462,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.ㅇㅇ" />
-      <item itemvalue="Python.baekjoon_하노이 탑 이동순서" />
-      <item itemvalue="Python.baekjoon_비밀번호 찾기" />
       <item itemvalue="Python.baekjoon_ATM" />
       <item itemvalue="Python.baekjoon_I've been Everywhere, Man" />
-      <item itemvalue="Python.baekjoon_미로탐색" />
+      <item itemvalue="Python.통장 비밀번호 풀기" />
+      <item itemvalue="Python.dd" />
+      <item itemvalue="Python.ss" />
+      <item itemvalue="Python.baekjoon_날짜 계산" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.baekjoon_날짜 계산" />
+        <item itemvalue="Python.ss" />
+        <item itemvalue="Python.dd" />
+        <item itemvalue="Python.통장 비밀번호 풀기" />
         <item itemvalue="Python.baekjoon_I've been Everywhere, Man" />
-        <item itemvalue="Python.ㅇㅇ" />
-        <item itemvalue="Python.baekjoon_비밀번호 찾기" />
-        <item itemvalue="Python.baekjoon_미로탐색" />
       </list>
     </recent_temporary>
   </component>
@@ -563,30 +501,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="271" y="175" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1675229293518" />
-    <state width="1334" height="251" key="GridCell.Tab.0.bottom" timestamp="1676280002105">
+    <state width="1336" height="161" key="GridCell.Tab.0.bottom" timestamp="1676429674079">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1334" height="251" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676280002105" />
-    <state width="1334" height="251" key="GridCell.Tab.0.center" timestamp="1676280002105">
+    <state width="1336" height="161" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676429674079" />
+    <state width="1336" height="161" key="GridCell.Tab.0.center" timestamp="1676429674079">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1334" height="251" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1676280002105" />
-    <state width="1334" height="251" key="GridCell.Tab.0.left" timestamp="1676280002105">
+    <state width="1336" height="161" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1676429674079" />
+    <state width="1336" height="161" key="GridCell.Tab.0.left" timestamp="1676429674079">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1334" height="251" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1676280002105" />
-    <state width="1334" height="251" key="GridCell.Tab.0.right" timestamp="1676280002105">
+    <state width="1336" height="161" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1676429674079" />
+    <state width="1336" height="161" key="GridCell.Tab.0.right" timestamp="1676429674079">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1334" height="251" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1676280002105" />
+    <state width="1336" height="161" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1676429674079" />
     <state x="114" y="101" key="SettingsEditor" timestamp="1675229323015">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="114" y="101" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1675229323015" />
-    <state x="471" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1676364629219">
+    <state x="471" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1676434248069">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="471" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1676364629219" />
+    <state x="471" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1676434248069" />
     <state x="430" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1675836695328">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
